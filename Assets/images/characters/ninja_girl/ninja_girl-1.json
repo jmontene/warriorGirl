@@ -1,0 +1,188 @@
+{"frames": {
+
+"Attack__001.png":
+{
+	"frame": {"x":963,"y":872,"w":291,"h":490},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":36,"y":33,"w":291,"h":490},
+	"sourceSize": {"w":524,"h":565}
+},
+"Attack__003.png":
+{
+	"frame": {"x":1256,"y":876,"w":492,"h":492},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":32,"y":31,"w":492,"h":492},
+	"sourceSize": {"w":524,"h":565}
+},
+"Attack__005.png":
+{
+	"frame": {"x":1278,"y":400,"w":515,"h":474},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":51,"w":515,"h":474},
+	"sourceSize": {"w":524,"h":565}
+},
+"Dead__000.png":
+{
+	"frame": {"x":1750,"y":876,"w":294,"h":496},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":26,"y":36,"w":294,"h":496},
+	"sourceSize": {"w":578,"h":599}
+},
+"Dead__001.png":
+{
+	"frame": {"x":639,"y":400,"w":324,"h":464},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":74,"w":324,"h":464},
+	"sourceSize": {"w":578,"h":599}
+},
+"Dead__003.png":
+{
+	"frame": {"x":1,"y":1,"w":437,"h":386},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":53,"y":165,"w":437,"h":386},
+	"sourceSize": {"w":578,"h":599}
+},
+"Jump__001.png":
+{
+	"frame": {"x":927,"y":1364,"w":295,"h":504},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":49,"y":39,"w":295,"h":504},
+	"sourceSize": {"w":399,"h":543}
+},
+"Jump__006.png":
+{
+	"frame": {"x":965,"y":400,"w":311,"h":470},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":37,"w":311,"h":470},
+	"sourceSize": {"w":399,"h":543}
+},
+"Jump_Attack__001.png":
+{
+	"frame": {"x":1,"y":1339,"w":290,"h":505},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":26,"w":290,"h":505},
+	"sourceSize": {"w":495,"h":583}
+},
+"Jump_Throw__009.png":
+{
+	"frame": {"x":1,"y":389,"w":307,"h":459},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":66,"y":34,"w":307,"h":459},
+	"sourceSize": {"w":425,"h":497}
+},
+"Run__000.png":
+{
+	"frame": {"x":297,"y":864,"w":337,"h":488},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":32,"y":19,"w":337,"h":488},
+	"sourceSize": {"w":376,"h":520}
+},
+"Run__001.png":
+{
+	"frame": {"x":1556,"y":1374,"w":334,"h":506},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":29,"y":14,"w":334,"h":506},
+	"sourceSize": {"w":376,"h":520}
+},
+"Run__007.png":
+{
+	"frame": {"x":636,"y":866,"w":325,"h":488},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":28,"y":8,"w":325,"h":488},
+	"sourceSize": {"w":376,"h":520}
+},
+"Run__008.png":
+{
+	"frame": {"x":310,"y":400,"w":327,"h":462},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":29,"y":10,"w":327,"h":462},
+	"sourceSize": {"w":376,"h":520}
+},
+"Slide__001.png":
+{
+	"frame": {"x":440,"y":1,"w":394,"h":397},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":2,"w":394,"h":397},
+	"sourceSize": {"w":397,"h":401}
+},
+"Slide__002.png":
+{
+	"frame": {"x":836,"y":1,"w":392,"h":397},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":2,"w":392,"h":397},
+	"sourceSize": {"w":397,"h":401}
+},
+"Slide__003.png":
+{
+	"frame": {"x":1230,"y":1,"w":390,"h":397},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":2,"w":390,"h":397},
+	"sourceSize": {"w":397,"h":401}
+},
+"Slide__007.png":
+{
+	"frame": {"x":1622,"y":1,"w":390,"h":397},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":2,"w":390,"h":397},
+	"sourceSize": {"w":397,"h":401}
+},
+"Throw__000.png":
+{
+	"frame": {"x":1,"y":850,"w":294,"h":487},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":75,"y":23,"w":294,"h":487},
+	"sourceSize": {"w":383,"h":514}
+},
+"Throw__002.png":
+{
+	"frame": {"x":293,"y":1354,"w":313,"h":503},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":33,"y":10,"w":313,"h":503},
+	"sourceSize": {"w":383,"h":514}
+},
+"Throw__007.png":
+{
+	"frame": {"x":1224,"y":1370,"w":330,"h":505},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":25,"y":9,"w":330,"h":505},
+	"sourceSize": {"w":383,"h":514}
+},
+"Throw__008.png":
+{
+	"frame": {"x":608,"y":1356,"w":317,"h":503},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":44,"y":11,"w":317,"h":503},
+	"sourceSize": {"w":383,"h":514}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "ninja_girl-1.png",
+	"format": "RGBA8888",
+	"size": {"w":2045,"h":1881},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:69b281e885d9b2627bdeae7e8246b0c7:27b712a74fb82d740221883f0c07949b:5ba29f876f7bd4b7f2d8463ac24eaf56$"
+}
+}

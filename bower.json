@@ -1,0 +1,26 @@
+{
+  "name": "warrior_girl",
+  "authors": [
+    "jmontene <josmontenegro2012@gmail.com>"
+  ],
+  "description": "Phaser platformer game",
+  "main": "",
+  "keywords": [
+    "Warrior",
+    "Girl",
+    "Game"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "Scripts/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "phaser-ce": "^2.7.10"
+  }
+}
